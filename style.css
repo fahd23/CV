@@ -4,7 +4,7 @@ body {
 hr{
   border-style: none;
   border-top-style: dotted;
-  border-color: lightgrey;
+  border-color:lightgrey;
   border-width: 6px;
   width : 3%;
 }
